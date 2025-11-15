@@ -5,7 +5,6 @@
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.x](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org)
-[![Release](https://img.shields.io/github/v/release/tu-usuario/IA_P3_CIFAR10_Apellido?include_prereleases)](https://github.com/tu-usuario/IA_P3_CIFAR10_Apellido/releases/tag/v1.0-P3-CIFAR10_Apellido)
 
 Repositorio reproducible de la práctica **“Visión profunda con CNN en CIFAR-10”**.  
 Incluye: notebooks, curvas, matrices de confusión y estudio de ablación.
