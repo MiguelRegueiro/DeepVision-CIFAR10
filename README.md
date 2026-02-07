@@ -179,12 +179,3 @@ pip install -r env/requirements.txt
 - Label smoothing / MixUp para reducir confusión *cat ↔ dog*.  
 - Auto-augment para ganar generalización extra.
 
-## 📄 Licencia
-Este trabajo académico se distribuye bolely under **CC BY-NC-SA 4.0**.
-```
-
-Cómo usarlo:
-
-1. En GitHub → Add file → Create new file → pega el texto → nombre `README.md` → Commit.  
-2. Cambia los `0.XX` por los valores que ya tienes en los `metrics_*.json`.  
-3. Añade el tag y ya tienes un **repo profesional** listo para entregar.
